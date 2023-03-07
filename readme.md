@@ -4,4 +4,4 @@ Below are the screenshots
 
 **Simple PN**
 
-<img src="https://github.com/netcoretest/flutter_demo/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-07%20at%2014.09.26.png" alt="Simple PN" width="120" height="150">
+<img src="https://github.com/netcoretest/flutter_demo/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-03-07%20at%2014.09.26.png" alt="Simple PN" width="120" height="180">
